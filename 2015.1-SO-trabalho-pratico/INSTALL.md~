@@ -9,4 +9,3 @@
 
 3. 2. To run the Round-roubin (RR) algorithm
 	* $ ./bin input.txt rr
-
